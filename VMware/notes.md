@@ -69,11 +69,11 @@ Non-Persistent VDI:
 Benefits of VDI:
 * Little actual computing takes place at the endpoint
     * IT departments may be able to extend the lifespan of otherwise obsolete PCs by repurposing them as VDI clients.
-    * Organizations can buy cheaper, less powerful machines(thin-clients).
+    * Organizations can buy cheaper, less powerful machines (thin-clients).
 *  All data lives in the data center, not on the endpoint (security benefit)      
     * Ex. A thief who steals a laptop that uses VDI can't take any data off the machine, because there is no data on the machine. (hospitals, banks, govt, etc)
 
 Drawbacks of VDI:
 * Reliance on network connectivity 
     * Users can't access their virtual desktops without a network connection, and weak connectivity can hinder desktop performance
-    * Need to deal with software licensing and support
+* Need to deal with software licensing and support
